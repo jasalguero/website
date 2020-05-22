@@ -4,24 +4,21 @@ import { graphql } from "gatsby"
 import Layout from "../components/layout"
 import SEO from "../components/seo"
 
-const AboutPage = ({ data, location }) => {
+const ThanksPage = ({ data, location }) => {
   const siteTitle = data.site.siteMetadata.title
 
   return (
     <Layout location={location} title={siteTitle}>
-      <SEO title="About" />
+      <SEO title="Thanks" />
       <div style={{ marginTop: `30px`, fontFamily: `Montserrat` }}>
-        <h2>This is Uno.</h2>
-        First Gatsby template by{" "}
-        <a href="https://22boxes.com" target="blank">
-          22Boxes.com
-        </a>
+        <h1>Thank you!</h1>
+        <p>I'll try to get back to you as soon as possible :)</p>
       </div>
     </Layout>
   )
 }
 
-export default AboutPage
+export default ThanksPage
 
 export const pageQuery = graphql`
   query {

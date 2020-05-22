@@ -1,0 +1,27 @@
+input,
+button,
+textarea {
+  width: 100%;
+  border: 1px solid darkgray;
+  padding: 2px;
+}
+
+button {
+  background-color: white;
+  border: 1px solid black;
+  color: black;
+}
+
+button:disabled {
+  border: 1px solid gray;
+  color: gray;
+}
+
+button:hover {
+  color: black;
+  cursor: pointer;
+}
+
+button:hover:disabled {
+  color: gray;
+}
