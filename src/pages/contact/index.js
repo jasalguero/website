@@ -1,11 +1,10 @@
 import React from "react"
 import { graphql } from "gatsby"
 import { navigate } from "gatsby-link"
-import "./style.css"
-
+import "./style.css";
 import Layout from "../../components/layout"
 import SEO from "../../components/seo"
-import {encode, validateEmail} from "../../utils/functions";
+import { encode, validateEmail } from "../../utils/functions"
 
 const ContactPage = ({ data, location }) => {
   const siteTitle = data.site.siteMetadata.title
@@ -55,11 +54,21 @@ const ContactPage = ({ data, location }) => {
           onSubmit={handleSubmit}
         >
           {/* The `form-name` hidden field is required to support form submissions without JavaScript */}
-          <input type="hidden" name="form-name" value="contact" />
+          <input
+            type="hidden"
+            name="form-name"
+            value="contact"
+            aria-label="Form Name"
+          />
           <p hidden>
             <label>
               Don’t fill this out:{" "}
-              <input name="bot-field" onChange={handleChange} />
+              <input
+                id="name"
+                name="bot-field"
+                aria-label="Bot Field"
+                onChange={handleChange}
+              />
             </label>
           </p>
           <p>
@@ -69,6 +78,7 @@ const ContactPage = ({ data, location }) => {
               <input
                 type="text"
                 name="name"
+                aria-label="Your name"
                 onChange={handleChange}
               />
             </label>
@@ -80,6 +90,7 @@ const ContactPage = ({ data, location }) => {
               <input
                 type="email"
                 name="email"
+                aria-label="Your email"
                 onChange={handleChange}
               />
             </label>
@@ -90,6 +101,7 @@ const ContactPage = ({ data, location }) => {
               <br />
               <textarea
                 name="message"
+                aria-label="Message"
                 onChange={handleChange}
               />
             </label>
@@ -97,6 +109,7 @@ const ContactPage = ({ data, location }) => {
           <p>
             <button
               type="submit"
+              aria-label="Submit Form"
               disabled={isDisabled()}
             >
               Send
