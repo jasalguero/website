@@ -1,15 +1,15 @@
 module.exports = {
   siteMetadata: {
-    title: `22Boxes Template Uno`,
+    title: `Jose Salguero`,
     author: {
-      name: `Gagandeep Singh`,
-      summary: `22boxes.com`,
+      name: `Jose Salguero`,
+      summary: `jasalguero.com`,
     },
-    description: `22Boxes Gatsby template Uno`,
-    siteUrl: `https://22boxesgatsbyuno.netlify.com/`,
-    social: {
-      twitter: `twentytwoboxes`,
-    },
+    description: `Personal website of Jose Salguero`,
+    siteUrl: `https://www.jasalguero.com`
+    // social: {
+    //   twitter: `twentytwoboxes`,
+    // },
   },
   plugins: [
     {

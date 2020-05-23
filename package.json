@@ -38,7 +38,7 @@
   "devDependencies": {
     "prettier": "^1.19.1"
   },
-  "homepage": "https://github.com/iamtherealgd/gatsby-starter-22boxes-uno",
+  "homepage": "jasalguero",
   "keywords": [
     "gatsby"
   ],
@@ -46,7 +46,7 @@
   "main": "n/a",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/iamtherealgd/gatsby-starter-22boxes-uno.git"
+    "url": "https://github.com/jasalguero/website"
   },
   "scripts": {
     "build": "gatsby build",
