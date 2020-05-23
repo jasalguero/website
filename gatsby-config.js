@@ -67,8 +67,8 @@ module.exports = {
     {
       resolve: `gatsby-plugin-manifest`,
       options: {
-        name: `22Boxes Gatsby Uno`,
-        short_name: `22Boxes.com`,
+        name: `jasalguero`,
+        short_name: `jasalguero.com`,
         start_url: `/`,
         background_color: `#ffffff`,
         theme_color: `#663399`,
