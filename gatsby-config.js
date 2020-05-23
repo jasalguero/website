@@ -6,10 +6,10 @@ module.exports = {
       summary: `jasalguero.com`,
     },
     description: `Personal website of Jose Salguero`,
-    siteUrl: `https://www.jasalguero.com`
-    // social: {
-    //   twitter: `twentytwoboxes`,
-    // },
+    siteUrl: `https://www.jasalguero.com`,
+    social: {
+      // twitter: `twentytwoboxes`,
+    },
   },
   plugins: [
     {
