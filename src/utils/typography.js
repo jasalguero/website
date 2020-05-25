@@ -1,17 +1,23 @@
 import Typography from "typography"
-import Wordpress2016 from "typography-theme-wordpress-2016"
+import Theme from "typography-theme-lincoln"
 
-Wordpress2016.overrideThemeStyles = () => {
-  return {
-    "a.gatsby-resp-image-link": {
-      boxShadow: `none`,
-    },
-  }
-}
+Theme.baseFontSize = "20px"
+Theme.googleFonts = [
+  { name: "Varela Round", styles: ["400", "700"] },
+  { name: "Open Sans", styles: ["400", "400i", "700"] },
+]
+Theme.bodyFontFamily = ["Open Sans", "serif"]
 
-delete Wordpress2016.googleFonts
+Theme.overrideThemeStyles = () => ({
+  h1: {
+    fontSize: "3em",
+  },
+  a: {
+    backgroundImage: "none",
+  },
+})
 
-const typography = new Typography(Wordpress2016)
+const typography = new Typography(Theme)
 
 // Hot reload typography in development.
 if (process.env.NODE_ENV !== `production`) {

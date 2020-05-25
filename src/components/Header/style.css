@@ -1,17 +1,42 @@
 .header-main {
   display: flex;
   margin-bottom: 30px;
+  align-items: center;
+  justify-content: center;
 }
 .logo-link {
   box-shadow: none;
   text-decoration: none;
   color: inherit;
 }
-.logo-img {
+
+.logo {
+  --bg-main-color: #209cee;
+  --bg-alt-color: #ffffff;
+}
+.logo {
+  font-size: 25px;
+  text-shadow: none;
   margin-right: 20px;
-  margin-bottom: 0;
-  min-width: 50;
-  height: 70px;
+  display: flex;
+}
+.logo .left {
+  color: black;
+  background: var(--bg-alt-color);
+  padding: 5px;
+}
+.logo:hover .left {
+  color: white;
+  background: var(--bg-main-color);
+}
+.logo .right {
+  color: white;
+  background: var(--bg-main-color);
+  padding: 5px;
+}
+.logo:hover .right {
+  color: black;
+  background: var(--bg-alt-color);
 }
 .header-nav {
   float: right;

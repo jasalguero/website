@@ -43,7 +43,7 @@ const ContactPage = ({ data, location }) => {
   return (
     <Layout location={location} title={siteTitle}>
       <SEO title="Contact" />
-      <div style={{ marginTop: `30px`, fontFamily: `Montserrat` }}>
+      <div>
         <h2>Drop me a line if you want to get in contact</h2>
         <form
           name="contact"
@@ -112,7 +112,7 @@ const ContactPage = ({ data, location }) => {
               aria-label="Submit Form"
               disabled={isDisabled()}
             >
-              Send
+              SEND
             </button>
           </p>
         </form>

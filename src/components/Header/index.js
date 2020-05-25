@@ -6,6 +6,12 @@ class Header extends React.Component {
   render() {
     return (
       <div className="header-main">
+        <Link className="logo-link" to={`/`}>
+          <div className="logo">
+            <div className="left">JOSE</div>
+            <div className="right">SALGUERO</div>
+          </div>
+        </Link>
         <div className="header-nav">
           <ul className="nav-ul">
             <li className="nav-li">

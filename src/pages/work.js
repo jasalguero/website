@@ -26,7 +26,6 @@ const WorkPage = ({ data, location }) => {
               <h3
                 style={{
                   marginBottom: rhythm(1 / 10),
-                  fontFamily: `Montserrat`,
                 }}
               >
                 <Link
@@ -35,7 +34,6 @@ const WorkPage = ({ data, location }) => {
                     color: "#000000",
                     fontSize: `21px`,
                     fontWeight: `400`,
-                    fontFamily: `Montserrat`,
                   }}
                   to={node.fields.slug}
                 >
@@ -48,7 +46,6 @@ const WorkPage = ({ data, location }) => {
                 color: "#888888",
                 fontSize: `17px`,
                 fontWeight: `300`,
-                fontFamily: `Montserrat`,
               }}
             >
               <p
@@ -64,7 +61,6 @@ const WorkPage = ({ data, location }) => {
                   color: `#000000`,
                   fontSize: `15px`,
                   fontWeight: `300`,
-                  fontFamily: `Montserrat`,
                 }}
               >
                 View Project

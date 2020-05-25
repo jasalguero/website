@@ -10,7 +10,7 @@ const ThanksPage = ({ data, location }) => {
   return (
     <Layout location={location} title={siteTitle}>
       <SEO title="Thanks" />
-      <div style={{ marginTop: `30px`, fontFamily: `Montserrat` }}>
+      <div style={{ marginTop: `30px` }}>
         <h1>Thank you!</h1>
         <p>I'll try to get back to you as soon as possible :)</p>
       </div>

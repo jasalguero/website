@@ -35,7 +35,7 @@ const BlogIndex = ({ data, location }) => {
                     color: "#000000",
                     fontSize: `21px`,
                     fontWeight: `400`,
-                    fontFamily: `Montserrat`,
+                    // fontFamily: `Montserrat`,
                   }}
                   to={node.fields.slug}
                 >
