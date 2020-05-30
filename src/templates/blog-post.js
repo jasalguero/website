@@ -4,15 +4,21 @@ import Bio from "../components/bio"
 import Layout from "../components/layout"
 import SEO from "../components/seo"
 import { rhythm, scale } from "../utils/typography"
+import { Disqus, CommentCount } from 'gatsby-plugin-disqus'
 
 class BlogPostTemplate extends React.Component {
   render() {
     const post = this.props.data.markdownRemark
-    const siteTitle = this.props.data.site.siteMetadata.title
+    const siteMetadata = this.props.data.site.siteMetadata
     const { previous, next } = this.props.pageContext
+    const disqusConfig = {
+      url: `${siteMetadata.siteUrl+this.props.location.pathname}`,
+      identifier: post.id,
+      title: post.frontmatter.title,
+    }
 
     return (
-      <Layout location={this.props.location} title={siteTitle}>
+      <Layout location={this.props.location} title={siteMetadata.title}>
         <SEO
           title={post.frontmatter.title}
           description={post.frontmatter.description || post.excerpt}
@@ -26,6 +32,7 @@ class BlogPostTemplate extends React.Component {
               }}
             >
               {post.frontmatter.title}
+              <CommentCount config={disqusConfig} placeholder={'...'} />
             </h1>
             <p
               style={{
@@ -47,6 +54,7 @@ class BlogPostTemplate extends React.Component {
           <footer>
             <Bio />
           </footer>
+          <Disqus config={disqusConfig} />
         </article>
 
         <nav>
@@ -86,6 +94,7 @@ export const pageQuery = graphql`
   query BlogPostBySlug($slug: String!) {
     site {
       siteMetadata {
+        siteUrl
         title
       }
     }
