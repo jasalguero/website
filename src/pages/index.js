@@ -3,6 +3,7 @@ import { graphql } from "gatsby"
 
 import Layout from "../components/layout"
 import SEO from "../components/seo"
+import Title from "../components/ui/title"
 
 const AboutPage = ({ data, location }) => {
   const siteTitle = data.site.siteMetadata.title
@@ -11,7 +12,7 @@ const AboutPage = ({ data, location }) => {
     <Layout location={location} title={siteTitle}>
       <SEO title="About" />
       <div className="text-big">
-        <h1>Hello there!</h1>
+        <Title>Hello there!</Title>
         <p>I'm Jose Salguero, a spanish developer living in Berlin.</p>
 
         <p>

@@ -1,9 +1,10 @@
 import React from "react"
 import { graphql } from "gatsby"
 import { navigate } from "gatsby-link"
-import "./style.css";
+import "./style.css"
 import Layout from "../../components/layout"
 import SEO from "../../components/seo"
+import Title from "../../components/ui/title"
 import { encode, validateEmail } from "../../utils/functions"
 
 const ContactPage = ({ data, location }) => {
@@ -44,6 +45,7 @@ const ContactPage = ({ data, location }) => {
     <Layout location={location} title={siteTitle}>
       <SEO title="Contact" />
       <div>
+        <Title size="sm">Contact</Title>
         <h2>Drop me a line if you want to get in contact</h2>
         <form
           name="contact"

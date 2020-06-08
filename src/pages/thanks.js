@@ -3,6 +3,7 @@ import { graphql } from "gatsby"
 
 import Layout from "../components/layout"
 import SEO from "../components/seo"
+import Title from "../components/ui/title"
 
 const ThanksPage = ({ data, location }) => {
   const siteTitle = data.site.siteMetadata.title
@@ -11,7 +12,7 @@ const ThanksPage = ({ data, location }) => {
     <Layout location={location} title={siteTitle}>
       <SEO title="Thanks" />
       <div style={{ marginTop: `30px` }}>
-        <h1>Thank you!</h1>
+        <Title>Thank you!</Title>
         <p>I'll try to get back to you as soon as possible :)</p>
       </div>
     </Layout>

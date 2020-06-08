@@ -14,6 +14,7 @@ Theme.overrideThemeStyles = () => ({
   },
   a: {
     backgroundImage: "none",
+    textShadow: "none"
   },
 })
 

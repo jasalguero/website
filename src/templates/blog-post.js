@@ -32,7 +32,6 @@ class BlogPostTemplate extends React.Component {
               }}
             >
               {post.frontmatter.title}
-              <CommentCount config={disqusConfig} placeholder={'...'} />
             </h1>
             <p
               style={{
@@ -41,7 +40,8 @@ class BlogPostTemplate extends React.Component {
                 marginBottom: rhythm(1),
               }}
             >
-              {post.frontmatter.date}
+              {post.frontmatter.date} <br/>
+              <CommentCount config={disqusConfig} placeholder={'...'} />
             </p>
           </header>
           <section dangerouslySetInnerHTML={{ __html: post.html }} />
