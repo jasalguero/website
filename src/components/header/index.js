@@ -1,86 +1,86 @@
-import React from "react"
+import React, { useState } from "react"
 import { Link } from "gatsby"
 import "./style.css"
+import "./hamburger.css"
 
-class Header extends React.Component {
-  render() {
-    return (
-      <nav className="flex items-center justify-between flex-wrap p-6">
-        <div className="flex items-center flex-shrink-0 text-white mr-6">
-          <Link className="logo-link" to={`/`}>
-            <div className="logo">
-              <div className="left">JOSE</div>
-              <div className="right">SALGUERO</div>
-            </div>
-          </Link>
-        </div>
-        <div className="block lg:hidden">
-          <button className="flex items-center px-3 py-2 border rounded hover:text-white hover:border-white">
-            <svg
-              className="fill-current h-3 w-3"
-              viewBox="0 0 20 20"
-              xmlns="http://www.w3.org/2000/svg"
-            >
-              <title>Menu</title>
-              <path d="M0 3h20v2H0V3zm0 6h20v2H0V9zm0 6h20v2H0v-2z" />
-            </svg>
-          </button>
-        </div>
-        <div className="w-full block lg:flex lg:items-center lg:w-auto">
-          <div className="text-sm lg:flex-grow justify-end">
-            <Link
-              className="li-link block mt-4 lg:inline-block lg:mt-0 mr-4"
-              to="/"
-              activeClassName="active"
-              partiallyActive={true}
-            >
-              About
-            </Link>
-            <Link
-              className="li-link block mt-4 lg:inline-block lg:mt-0 mr-4"
-              to="/contact/"
-              activeClassName="active"
-              partiallyActive={true}
-            >
-              Contact
-            </Link>
+const NAV_ITEMS = [
+  { id: "about", label: "About", url: "/" },
+  { id: "contact", label: "Contact", url: "/contact" },
+]
+
+const Header = () => {
+  const [isOpen, setOpen] = useState(false)
+
+  return (
+    <nav className="flex items-center justify-between flex-wrap p-6">
+      <div className="flex items-center flex-shrink-0 text-white mr-6">
+        <Link className="logo-link" to={`/`}>
+          <div className="logo">
+            <div className="left">JOSE</div>
+            <div className="right">SALGUERO</div>
           </div>
-        </div>
-      </nav>
-    )
-    // return (
-    //   <div className="header-main">
-    //     <Link className="logo-link" to={`/`}>
-    //       <div className="logo">
-    //         <div className="left">JOSE</div>
-    //         <div className="right">SALGUERO</div>
-    //       </div>
-    //     </Link>
-    //     <div className="header-nav">
-    //       <ul className="nav-ul">
-    //         <li className="nav-li">
-    //           <h1 className="li-h1">
-    //             <Link className="li-link" to={`/`} activeClassName="active">
-    //               About
-    //             </Link>
-    //           </h1>
-    //         </li>
-    //         <li className="nav-li">
-    //           <h1 className="li-h1">
-    //             <Link
-    //               className="li-link"
-    //               to={`/contact`}
-    //               activeClassName="active"
-    //             >
-    //               Contact
-    //             </Link>
-    //           </h1>
-    //         </li>
-    //       </ul>
-    //     </div>
-    //   </div>
-    // )
-  }
+        </Link>
+      </div>
+      <MobileNavButton isOpen={isOpen} setOpen={setOpen} />
+      <DesktopNav />
+      <MobileNav isOpen={isOpen} />
+    </nav>
+  )
 }
 
 export default Header
+
+function DesktopNav() {
+  return (
+    <div className="desktop-nav hidden md:flex md:items-center md:w-auto">
+      <div className="text-sm md:flex-grow justify-end">
+        {NAV_ITEMS.map(item => (
+          <Link
+            className="li-link block mt-4 md:inline-block md:mt-0 mr-4"
+            to={item.url}
+            key={`${item.id}-nav`}
+            activeClassName="active"
+          >
+            {item.label}
+          </Link>
+        ))}
+      </div>
+    </div>
+  )
+}
+
+function MobileNavButton({ isOpen, setOpen }) {
+  return (
+    <div className="block md:hidden">
+      {isOpen}
+      <button
+        type="button"
+        className={`hamburger pr-5 focus:outline-none ${
+          isOpen ? "open" : ""
+        }`}
+        onClick={() => setOpen(!isOpen)}
+      >
+        <span className="hamburger__top-bun"></span>
+        <span className="hamburger__bottom-bun"></span>
+      </button>
+    </div>
+  )
+}
+
+function MobileNav({ isOpen }) {
+  const visibilityClass = isOpen ? "block" : "hidden"
+  return (
+    <div className={`mobile-nav w-full md:hidden ${visibilityClass}`}>
+      {NAV_ITEMS.map(item => (
+        <Link
+          className="block mt-4 mr-4"
+          to={item.url}
+          key={`${item.id}-nav`}
+          activeClassName="active"
+        >
+          {item.label.toUpperCase()}
+        </Link>
+      ))}
+    </div>
+  )
+}

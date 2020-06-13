@@ -2,7 +2,7 @@
   "name": "jasalguero-website",
   "private": true,
   "description": "A basic website powered by Gatsby and Markdown",
-  "version": "0.1.0",
+  "version": "1.0.1",
   "author": "Jose Salguero <jasalguero@gmail.com>",
   "bugs": {
     "url": "https://github.com/jasalguero/website"
