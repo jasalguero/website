@@ -1,27 +1,16 @@
 import React from "react"
-import { rhythm } from "../utils/typography"
 import Header from "./header"
 import "./base.css"
 
 function Layout({ location, title, children }) {
-  
   return (
-    <div
-      style={{
-        marginLeft: `auto`,
-        marginRight: `auto`,
-        maxWidth: rhythm(32),
-        padding: `${rhythm(1)} ${rhythm(2 / 4)} 0 ${rhythm(2 / 4)} `,
-        // fontFamily: `Montserrat`,
-      }}
-    >
+    <div className="layout-wrapper">
       <header>
-        {" "}
-        <Header location={location} />{" "}
+        <Header location={location} />
       </header>
-      <main>
-        {children}
-      </main>
+      <div className="content-wrapper">
+        <main>{children}</main>
+      </div>
     </div>
   )
 }

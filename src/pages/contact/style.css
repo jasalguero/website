@@ -2,26 +2,32 @@ input,
 button,
 textarea {
   width: 100%;
-  border: 1px solid darkgray;
+  border: 2px solid var(--bg-main-darker-color);
   padding: 2px;
 }
 
+input:focus,
+textarea:focus {
+  outline: solid var(--bg-main-darker-color);
+}
+
 button {
-  background-color: white;
-  border: 1px solid black;
-  color: black;
+  background-color: var(--bg-main-color);
+  border: 1px solid var(--bg-main-darker-color);;
+  color: white;
 }
 
 button:disabled {
-  border: 1px solid gray;
-  color: gray;
+  background-color: var(--bg-main-darker-color);
+  color: white;
+  cursor: not-allowed;
 }
 
 button:hover {
-  color: black;
+  color: white;
   cursor: pointer;
 }
 
-button:hover:disabled {
-  color: gray;
-}
+/* button:hover:disabled {
+  color: gray
+} */

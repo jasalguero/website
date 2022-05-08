@@ -1,20 +1,78 @@
 :root {
-    --body-bg-color: #white;
-    --main-elem-color: white;
+  --body-bg-color: #c2cfcd;
+  --main-elem-color: #c2cfcd;
+  --bg-main-color: #0c517e;
+  --bg-main-darker-color: #47677c;
+  /* --bg-main-darker-color: hsl(from var(--bg-main-color) h s calc(l - 5%)); */
 }
 
-body{
-    margin:0;
-    padding:0;
-    background-color: var(--body-bg-color);
+html,
+body {
+  width: 100%;
+  height: 100%;
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+
+body {
+  background-color: var(--body-bg-color);
+}
+
+#___gatsby,
+#gatsby-focus-wrapper {
+  width: 100%;
+  height: 100%;
+}
+
+.layout-wrapper {
+  width: 100%;
+  height: 100%;
+}
+
+.content-wrapper {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100%;
 }
 
 main {
-    background-color: var(--main-elem-color);
-    box-shadow: 0 1px 4px rgba(0,0,0,.04);
-    padding: 30px;
+  width: 80%;
+  margin: 0 auto;
+  max-height: 100%;
+  background-color: var(--main-elem-color);
+  box-shadow: 0 1px 4px rgba(0, 0, 0, 0.04);
+  padding: 30px;
 }
 
 .text-big {
-    font-size: 24px;
+  font-size: 24px;
+}
+
+p {
+  margin-top: 2em;
+  margin-bottom: 2em;
+}
+
+main a {
+  text-decoration: none;
+  position: relative;
+  font-weight: 300;
+  color: var(--bg-main-color);
+}
+
+main a:after {
+  /* border-radius: 1em; */
+  border-top: 0.2em solid var(--bg-main-color);
+  content: "";
+  position: absolute;
+  right: 100%;
+  bottom: -0.1em;
+  left: 0;
+  transition: right 0.4s cubic-bezier(0, 0.5, 0, 1);
+}
+
+main a:hover:after {
+  right: 0;
 }

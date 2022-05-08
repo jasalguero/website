@@ -30,22 +30,21 @@ const ContactPage = ({ data, location }) => {
       .catch(error => alert(error))
   }
 
-  const isDisabled = () => {
-    return (
-      !state.name ||
-      state.name === "" ||
-      !state.email ||
-      !validateEmail(state.email) ||
-      !state.message ||
-      state.message === ""
-    )
-  }
+  const isDisabled =
+    !state.name ||
+    state.name === "" ||
+    !state.email ||
+    !validateEmail(state.email) ||
+    !state.message ||
+    state.message === ""
+
+  console.log("state", state, isDisabled)
 
   return (
     <Layout location={location} title={siteTitle}>
       <SEO title="Contact" />
       <div>
-        <Title size="sm">Contact</Title>
+        <Title size="md">Contact me</Title>
         <h2>Drop me a line if you want to get in contact</h2>
         <form
           name="contact"
@@ -102,6 +101,7 @@ const ContactPage = ({ data, location }) => {
               Message:
               <br />
               <textarea
+                rows={8}
                 name="message"
                 aria-label="Message"
                 onChange={handleChange}
@@ -112,7 +112,7 @@ const ContactPage = ({ data, location }) => {
             <button
               type="submit"
               aria-label="Submit Form"
-              disabled={isDisabled()}
+              disabled={isDisabled}
             >
               SEND
             </button>

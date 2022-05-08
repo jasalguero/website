@@ -3,10 +3,14 @@ import Theme from "typography-theme-lincoln"
 
 Theme.baseFontSize = "20px"
 Theme.googleFonts = [
-  { name: "Varela Round", styles: ["400", "700"] },
-  { name: "Open Sans", styles: ["400", "400i", "700"] },
+  { name: "Raleway", styles: ["100","300","400", "700"] },
+  // { name: "Open Sans", styles: ["400", "400i", "700"] },
 ]
-Theme.bodyFontFamily = ["Open Sans", "serif"]
+Theme.bodyFontFamily = ["Raleway", "serif"]
+Theme.headerFontFamily = ["Raleway", "sans-serif"]
+Theme.headerWeight = "600"
+Theme.bodyWeight = "400"
+Theme.boldWeight = "700"
 
 Theme.overrideThemeStyles = () => ({
   h1: {
@@ -14,7 +18,7 @@ Theme.overrideThemeStyles = () => ({
   },
   a: {
     backgroundImage: "none",
-    textShadow: "none"
+    textShadow: "none",
   },
 })
 

@@ -4,6 +4,11 @@
 
 @tailwind utilities;
 
+header {
+  position: fixed;
+  width: 100%;
+}
+
 .header-main {
   display: flex;
   margin-bottom: 30px;
@@ -17,32 +22,36 @@
 }
 
 .logo {
-  --bg-main-color: #209cee;
-  --bg-alt-color: #ffffff;
+
+  --bg-alt-color: transparent;
+  --transition-time: 0.8s;
 }
 .logo {
   font-size: 25px;
+  font-weight: bold;
   text-shadow: none;
   margin-right: 20px;
   display: flex;
 }
 .logo .left {
   color: black;
-  background: var(--bg-alt-color);
+  background-color: var(--bg-alt-color);
+  transition: background-color ease var(--transition-time);
   padding: 5px;
 }
 .logo:hover .left {
   color: white;
-  background: var(--bg-main-color);
+  background-color: var(--bg-main-color);
 }
 .logo .right {
   color: white;
-  background: var(--bg-main-color);
+  background-color: var(--bg-main-color);
+  transition: background-color ease var(--transition-time);
   padding: 5px;
 }
 .logo:hover .right {
   color: black;
-  background: var(--bg-alt-color);
+  background-color: var(--bg-alt-color);
 }
 .header-nav {
   float: right;
@@ -62,7 +71,7 @@
 }
 .li-h1 {
   font-size: 20px;
-  font-weight: 300;
+  font-weight: 400;
   margin-bottom: 0;
   margin-top: 0;
 }
@@ -71,7 +80,14 @@
   text-decoration: none;
   color: inherit;
 }
-.li-link.active {
+
+.li-link.active,
+.li-link:hover {
   padding-bottom: 5px;
   box-shadow: 0px 1px 0px 0px black;
+  transition: box-shadow ease 0.5s;
+}
+
+.li-link.active {
+  font-weight: 600;
 }
