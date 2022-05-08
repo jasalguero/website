@@ -12,8 +12,8 @@ const Header = () => {
   const [isOpen, setOpen] = useState(false)
 
   return (
-    <nav className="flex items-center justify-between flex-wrap p-6">
-      <div className="flex items-center flex-shrink-0 text-white mr-6">
+    <nav className="flex flex-wrap items-center justify-between pt-6">
+      <div className="flex items-center flex-shrink-0 mr-6 text-white">
         <Link className="logo-link" to={`/`}>
           <div className="logo">
             <div className="left">JOSE</div>
@@ -32,11 +32,11 @@ export default Header
 
 function DesktopNav() {
   return (
-    <div className="desktop-nav hidden md:flex md:items-center md:w-auto">
-      <div className="text-sm md:flex-grow justify-end">
+    <div className="hidden desktop-nav md:flex md:items-center md:w-auto">
+      <div className="justify-end text-sm md:flex-grow">
         {NAV_ITEMS.map(item => (
           <Link
-            className="li-link block mt-4 md:inline-block md:mt-0 mr-4"
+            className="block mt-4 mr-4 li-link md:inline-block md:mt-0"
             to={item.url}
             key={`${item.id}-nav`}
             activeClassName="active"
