@@ -13,7 +13,7 @@ const AboutPage = ({ data, location }) => {
       <SEO title="About" />
       <div className="text-big">
         <Title>
-          Hi I'm <strong>Jose</strong>!
+          Hi, I'm <strong>Jose</strong>!
         </Title>
         <p>
           I am a software engineer and I build tools to (hopefully) help people
