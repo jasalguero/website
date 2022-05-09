@@ -38,8 +38,6 @@ const ContactPage = ({ data, location }) => {
     !state.message ||
     state.message === ""
 
-  console.log("state", state, isDisabled)
-
   return (
     <Layout location={location} title={siteTitle}>
       <SEO title="Contact" />

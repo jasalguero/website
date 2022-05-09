@@ -6,8 +6,7 @@
 
 header {
   position: fixed;
-  width: 100%;
-  max-width: 1024px;
+  width: 80%;
 }
 
 .header-main {

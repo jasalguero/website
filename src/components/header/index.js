@@ -36,7 +36,7 @@ function DesktopNav() {
       <div className="justify-end text-sm md:flex-grow">
         {NAV_ITEMS.map(item => (
           <Link
-            className="block mt-4 mr-4 li-link md:inline-block md:mt-0"
+            className="block mt-4 mr-5 li-link md:inline-block md:mt-0"
             to={item.url}
             key={`${item.id}-nav`}
             activeClassName="active"
