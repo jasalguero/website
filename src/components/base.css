@@ -48,7 +48,6 @@ main {
   margin: 0 auto;
   max-height: 100%;
   background-color: var(--main-elem-color);
-  box-shadow: 0 1px 4px rgba(0, 0, 0, 0.04);
   padding: 30px;
 }
 
@@ -64,13 +63,12 @@ p {
 main a {
   text-decoration: none;
   position: relative;
-  font-weight: 300;
+  font-weight: 400;
   color: var(--bg-main-color);
 }
 
 main a:after {
-  /* border-radius: 1em; */
-  border-top: 0.2em solid var(--bg-main-color);
+  border-bottom: 0.1em solid var(--bg-main-color);
   content: "";
   position: absolute;
   right: 100%;
