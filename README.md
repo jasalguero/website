@@ -1,18 +1,26 @@
-<p align="center">
-  <a href="https://www.gatsbyjs.org">
-    <img alt="Gatsby" src="https://www.gatsbyjs.org/monogram.svg" width="60" />
-  </a>
-</p>
-<h1 align="center">
-  Gatsby's Starter: Uno
-</h1>
+# Jose Salguero — personal site
 
-Gatsby starter for creating a blog and showcasing your work with landing pages for earch portfolio item.
+A portable static personal site built with semantic HTML, CSS, JavaScript, and Vite.
 
-[Live Demo](https://22boxes-gatsby-uno.netlify.com/)
+## Local development
 
-## Deploy
+```bash
+npm install
+npm run dev
+```
 
-[![Deploy to Netlify](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/iamtherealgd/gatsby-starter-22boxes-uno)
+## Production build
 
-[![Deploy with ZEIT Now](https://zeit.co/button)](https://zeit.co/import/project?template=https://github.com/iamtherealgd/gatsby-starter-22boxes-uno)
+```bash
+npm run build
+```
+
+The deployable static site is generated in `dist/` and can be hosted on any static provider.
+
+## Design
+
+The site uses a single responsive Swiss Grid design with bold typography, precise structure, restrained color fields, and subtle motion.
+
+## Contact form
+
+The form uses a `mailto:` link so the site remains fully static and provider-independent. Submitting it opens the visitor's configured email app with a message addressed to `contact@jasalguero.com`; the visitor reviews and sends the email from there.
