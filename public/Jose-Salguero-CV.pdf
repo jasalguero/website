@@ -1,133 +1,970 @@
-%PDF-1.4
-%“Œ‹ž ReportLab Generated PDF document (opensource)
+%PDF-1.3
+%âãÏÓ
 1 0 obj
 <<
-/F1 2 0 R /F2 3 0 R
+/PageMode /UseNone
+/Pages 2 0 R
+/Type /Catalog
 >>
 endobj
 2 0 obj
 <<
-/BaseFont /Helvetica /Encoding /WinAnsiEncoding /Name /F1 /Subtype /Type1 /Type /Font
+/Count 2
+/Kids [ 3 0 R 13 0 R ]
+/Type /Pages
 >>
 endobj
 3 0 obj
 <<
-/BaseFont /Helvetica-Bold /Encoding /WinAnsiEncoding /Name /F2 /Subtype /Type1 /Type /Font
+/Annots [ 4 0 R 5 0 R 6 0 R 7 0 R 8 0 R ]
+/Contents 9 0 R
+/MediaBox [ 0 0 595.2756 841.8898 ]
+/Parent 2 0 R
+/Resources <<
+/Font 10 0 R
+/ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ]
+>>
+/Rotate 0
+/Trans <<
+>>
+/Type /Page
 >>
 endobj
 4 0 obj
 <<
 /A <<
-/S /URI /Type /Action /URI (mailto:contact@jasalguero.com)
->> /Border [ 0 0 0 ] /Rect [ 46 720.8898 133.8158 732.8898 ] /Subtype /Link /Type /Annot
+/S /URI
+/Type /Action
+/URI (mailto\072contact\100jasalguero\056com)
+>>
+/Border [ 0 0 0 ]
+/Rect [ 46 720.8898 133.8158 732.8898 ]
+/Subtype /Link
+/Type /Annot
 >>
 endobj
 5 0 obj
 <<
 /A <<
-/S /URI /Type /Action /URI (https://www.jasalguero.com/)
->> /Border [ 0 0 0 ] /Rect [ 153.8158 720.8898 208.1022 732.8898 ] /Subtype /Link /Type /Annot
+/S /URI
+/Type /Action
+/URI (https\072\057\057www\056jasalguero\056com\057)
+>>
+/Border [ 0 0 0 ]
+/Rect [ 153.8158 720.8898 208.1022 732.8898 ]
+/Subtype /Link
+/Type /Annot
 >>
 endobj
 6 0 obj
 <<
 /A <<
-/S /URI /Type /Action /URI (https://www.linkedin.com/in/jasalguero/)
->> /Border [ 0 0 0 ] /Rect [ 294.9812 720.8898 387.9252 732.8898 ] /Subtype /Link /Type /Annot
+/S /URI
+/Type /Action
+/URI (https\072\057\057www\056linkedin\056com\057in\057jasalguero\057)
+>>
+/Border [ 0 0 0 ]
+/Rect [ 294.9812 720.8898 387.9252 732.8898 ]
+/Subtype /Link
+/Type /Annot
 >>
 endobj
 7 0 obj
 <<
 /A <<
-/S /URI /Type /Action /URI (https://www.glassjar.io/)
->> /Border [ 0 0 0 ] /Rect [ 36 552.8898 93.717 565.4898 ] /Subtype /Link /Type /Annot
+/S /URI
+/Type /Action
+/URI (https\072\057\057www\056glassjar\056io\057)
+>>
+/Border [ 0 0 0 ]
+/Rect [ 36 552.8898 93.717 565.4898 ]
+/Subtype /Link
+/Type /Annot
 >>
 endobj
 8 0 obj
 <<
 /A <<
-/S /URI /Type /Action /URI (https://www.caimber.com/products/mobyplus)
->> /Border [ 0 0 0 ] /Rect [ 36 465.8898 157.9 478.4898 ] /Subtype /Link /Type /Annot
+/S /URI
+/Type /Action
+/URI (https\072\057\057www\056caimber\056com\057products\057mobyplus)
+>>
+/Border [ 0 0 0 ]
+/Rect [ 36 465.8898 157.9 478.4898 ]
+/Subtype /Link
+/Type /Annot
 >>
 endobj
 9 0 obj
 <<
-/Annots [ 4 0 R 5 0 R 6 0 R 7 0 R 8 0 R ] /Contents 14 0 R /MediaBox [ 0 0 595.2756 841.8898 ] /Parent 13 0 R /Resources <<
-/Font 1 0 R /ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ]
->> /Rotate 0 
-  /Trans <<
-
->> /Type /Page
+/Length 11114
 >>
+stream
+1 0 0 1 0 0 cm
+BT
+/F1 12 Tf
+14.4 TL
+ET
+1 0.231373 0.141176 rg
+n
+0 693.8898 12 148 re
+f*
+0.062745 0.062745 0.062745 rg
+BT
+/F2 30 Tf
+36 TL
+ET
+BT
+1 0 0 1 36 786.8898 Tm
+(JOSE SALGUERO) Tj
+T*
+ET
+BT
+/F2 12 Tf
+14.4 TL
+ET
+1 0.231373 0.141176 rg
+BT
+1 0 0 1 36 763.8898 Tm
+(SOFTWARE ENGINEER) Tj
+T*
+ET
+0.87451 0.937255 0.960784 rg
+n
+36 714.8898 523.2756 27 re
+f*
+BT
+/F2 7.4 Tf
+8.88 TL
+ET
+0.062745 0.062745 0.062745 rg
+BT
+1 0 0 1 46 724.8898 Tm
+(contact\100jasalguero\056com) Tj
+T*
+ET
+0.062745 0.062745 0.062745 rg
+BT
+1 0 0 1 153.8158 724.8898 Tm
+(jasalguero\056com) Tj
+T*
+ET
+0.062745 0.062745 0.062745 rg
+BT
+1 0 0 1 228.1022 724.8898 Tm
+(Bilbao\054 Spain) Tj
+T*
+ET
+0.062745 0.062745 0.062745 rg
+BT
+1 0 0 1 294.9812 724.8898 Tm
+(linkedin\056com\057in\057jasalguero) Tj
+T*
+ET
+0.87451 0.937255 0.960784 rg
+n
+36 602.8898 523.2756 88 re
+f*
+0.062745 0.062745 0.062745 rg
+BT
+/F2 9 Tf
+10.8 TL
+ET
+BT
+1 0 0 1 48 671.8898 Tm
+(PROFILE) Tj
+T*
+ET
+BT
+/F1 8.5 Tf
+10.2 TL
+ET
+0.062745 0.062745 0.062745 rg
+BT
+1 0 0 1 48 653.8898 Tm
+(I\047m Jose Salguero\054 an engineer with many years of experience building web software\056 I combine deep technical craft with practical) Tj
+T*
+ET
+BT
+1 0 0 1 48 642.8898 Tm
+(problem solving and a strong focus on software that helps people move forward\056 Today\054 I harness AI to reduce repetitive work\054) Tj
+T*
+ET
+BT
+1 0 0 1 48 631.8898 Tm
+(sharpen decisions\054 and create more productive and accessible digital experiences \055 grounded in full\055stack experience across) Tj
+T*
+ET
+BT
+1 0 0 1 48 620.8898 Tm
+(JavaScript\054 React\054 Ember\054 Node\056js\054 and Java\056) Tj
+T*
+ET
+0.062745 0.062745 0.062745 rg
+BT
+/F2 11 Tf
+13.2 TL
+ET
+BT
+1 0 0 1 36 577.8898 Tm
+(01  SELECTED RECENT WORK) Tj
+T*
+ET
+0.062745 0.062745 0.062745 RG
+1 w
+n
+36 570.8898 m
+391 570.8898 l
+S
+0.062745 0.062745 0.062745 rg
+BT
+/F2 10.6 Tf
+12.72 TL
+ET
+BT
+1 0 0 1 36 554.8898 Tm
+(GLASSJAR) Tj
+T*
+ET
+BT
+/F1 10.6 Tf
+12.72 TL
+ET
+0.333333 0.333333 0.333333 rg
+BT
+1 0 0 1 99.717 554.8898 Tm
+(\057 Software Engineer) Tj
+T*
+ET
+BT
+/F2 7.1 Tf
+8.52 TL
+ET
+0.466667 0.466667 0.466667 rg
+BT
+1 0 0 1 36 539.8898 Tm
+(CURRENT \057 REMOTE) Tj
+T*
+ET
+1 0.231373 0.141176 rg
+n
+40 528.4898 m
+40 529.3182 39.32843 529.9898 38.5 529.9898 c
+37.67157 529.9898 37 529.3182 37 528.4898 c
+37 527.6613 37.67157 526.9898 38.5 526.9898 c
+39.32843 526.9898 40 527.6613 40 528.4898 c
+f*
+0.160784 0.160784 0.160784 rg
+BT
+/F1 8.35 Tf
+10.02 TL
+ET
+BT
+1 0 0 1 47 525.8898 Tm
+(Developing a modern accounting platform from scratch for small businesses\054 bookkeepers\054) Tj
+T*
+ET
+BT
+1 0 0 1 47 514.8898 Tm
+(and accounting firms\056) Tj
+T*
+ET
+1 0.231373 0.141176 rg
+n
+40 504.4898 m
+40 505.3182 39.32843 505.9898 38.5 505.9898 c
+37.67157 505.9898 37 505.3182 37 504.4898 c
+37 503.6613 37.67157 502.9898 38.5 502.9898 c
+39.32843 502.9898 40 503.6613 40 504.4898 c
+f*
+0.160784 0.160784 0.160784 rg
+BT
+/F1 8.35 Tf
+10.02 TL
+ET
+BT
+1 0 0 1 47 501.8898 Tm
+(Building clear\054 scalable workflows across transaction entry\054 reporting\054 contacts\054 integrations\054) Tj
+T*
+ET
+BT
+1 0 0 1 47 490.8898 Tm
+(and core financial operations\056) Tj
+T*
+ET
+0.062745 0.062745 0.062745 rg
+BT
+/F2 10.6 Tf
+12.72 TL
+ET
+BT
+1 0 0 1 36 467.8898 Tm
+(CAIMBER \055 MOBY PLUS) Tj
+T*
+ET
+BT
+/F1 10.6 Tf
+12.72 TL
+ET
+0.333333 0.333333 0.333333 rg
+BT
+1 0 0 1 163.9 467.8898 Tm
+(\057 Software Engineer) Tj
+T*
+ET
+BT
+/F2 7.1 Tf
+8.52 TL
+ET
+0.466667 0.466667 0.466667 rg
+BT
+1 0 0 1 36 452.8898 Tm
+(RECENT \057 REMOTE) Tj
+T*
+ET
+1 0.231373 0.141176 rg
+n
+40 441.4898 m
+40 442.3182 39.32843 442.9898 38.5 442.9898 c
+37.67157 442.9898 37 442.3182 37 441.4898 c
+37 440.6613 37.67157 439.9898 38.5 439.9898 c
+39.32843 439.9898 40 440.6613 40 441.4898 c
+f*
+0.160784 0.160784 0.160784 rg
+BT
+/F1 8.35 Tf
+10.02 TL
+ET
+BT
+1 0 0 1 47 438.8898 Tm
+(Brought the AI\055powered K\0558 reading assessment platform to production and modernized it to) Tj
+T*
+ET
+BT
+1 0 0 1 47 427.8898 Tm
+(current web standards\056) Tj
+T*
+ET
+1 0.231373 0.141176 rg
+n
+40 417.4898 m
+40 418.3182 39.32843 418.9898 38.5 418.9898 c
+37.67157 418.9898 37 418.3182 37 417.4898 c
+37 416.6613 37.67157 415.9898 38.5 415.9898 c
+39.32843 415.9898 40 416.6613 40 417.4898 c
+f*
+0.160784 0.160784 0.160784 rg
+BT
+/F1 8.35 Tf
+10.02 TL
+ET
+BT
+1 0 0 1 47 414.8898 Tm
+(Improved the product foundation for automated assessment\054 instant scoring\054 progress) Tj
+T*
+ET
+BT
+1 0 0 1 47 403.8898 Tm
+(reporting\054 and accessible student experiences\056) Tj
+T*
+ET
+0.062745 0.062745 0.062745 rg
+BT
+/F2 11 Tf
+13.2 TL
+ET
+BT
+1 0 0 1 36 382.8898 Tm
+(02  PROFESSIONAL EXPERIENCE) Tj
+T*
+ET
+0.062745 0.062745 0.062745 RG
+1 w
+n
+36 375.8898 m
+391 375.8898 l
+S
+0.062745 0.062745 0.062745 rg
+BT
+/F2 10 Tf
+12 TL
+ET
+BT
+1 0 0 1 36 359.8898 Tm
+(APLOS SOFTWARE) Tj
+T*
+ET
+BT
+/F1 10 Tf
+12 TL
+ET
+0.333333 0.333333 0.333333 rg
+BT
+1 0 0 1 136.45 359.8898 Tm
+(\057 Senior Software Engineer) Tj
+T*
+ET
+BT
+/F2 7.1 Tf
+8.52 TL
+ET
+0.466667 0.466667 0.466667 rg
+BT
+1 0 0 1 36 344.8898 Tm
+(06\0572014 \055 PRESENT \057 FRESNO\054 US \055 REMOTE) Tj
+T*
+ET
+1 0.231373 0.141176 rg
+n
+40 333.4898 m
+40 334.3182 39.32843 334.9898 38.5 334.9898 c
+37.67157 334.9898 37 334.3182 37 333.4898 c
+37 332.6613 37.67157 331.9898 38.5 331.9898 c
+39.32843 331.9898 40 332.6613 40 333.4898 c
+f*
+0.160784 0.160784 0.160784 rg
+BT
+/F1 8.1 Tf
+9.72 TL
+ET
+BT
+1 0 0 1 47 330.8898 Tm
+(Architected the move from a Java\057JSP monolith to independently tested and deployed web) Tj
+T*
+ET
+BT
+1 0 0 1 47 320.3898 Tm
+(applications using Ember\054 React\054 and JavaScript\056) Tj
+T*
+ET
+1 0.231373 0.141176 rg
+n
+40 310.4898 m
+40 311.3182 39.32843 311.9898 38.5 311.9898 c
+37.67157 311.9898 37 311.3182 37 310.4898 c
+37 309.6613 37.67157 308.9898 38.5 308.9898 c
+39.32843 308.9898 40 309.6613 40 310.4898 c
+f*
+0.160784 0.160784 0.160784 rg
+BT
+/F1 8.1 Tf
+9.72 TL
+ET
+BT
+1 0 0 1 47 307.8898 Tm
+(Integrated payment\054 banking\054 and marketing services including Stripe\054 WePay\054 Finicity\054 PayPal\054) Tj
+T*
+ET
+BT
+1 0 0 1 47 297.3898 Tm
+(and Constant Contact\056) Tj
+T*
+ET
+1 0.231373 0.141176 rg
+n
+40 287.4898 m
+40 288.3182 39.32843 288.9898 38.5 288.9898 c
+37.67157 288.9898 37 288.3182 37 287.4898 c
+37 286.6613 37.67157 285.9898 38.5 285.9898 c
+39.32843 285.9898 40 286.6613 40 287.4898 c
+f*
+0.160784 0.160784 0.160784 rg
+BT
+/F1 8.1 Tf
+9.72 TL
+ET
+BT
+1 0 0 1 47 284.8898 Tm
+(Created design\055system and delivery tooling\054 mentored developers\054 and partnered with product) Tj
+T*
+ET
+BT
+1 0 0 1 47 274.3898 Tm
+(teams on requirements and implementation\056) Tj
+T*
+ET
+0.062745 0.062745 0.062745 rg
+BT
+/F2 10 Tf
+12 TL
+ET
+BT
+1 0 0 1 36 254.8898 Tm
+(INDEPENDENT) Tj
+T*
+ET
+BT
+/F1 10 Tf
+12 TL
+ET
+0.333333 0.333333 0.333333 rg
+BT
+1 0 0 1 113.67 254.8898 Tm
+(\057 Freelance Software Engineer) Tj
+T*
+ET
+BT
+/F2 7.1 Tf
+8.52 TL
+ET
+0.466667 0.466667 0.466667 rg
+BT
+1 0 0 1 36 239.8898 Tm
+(2013 \055 PRESENT) Tj
+T*
+ET
+1 0.231373 0.141176 rg
+n
+40 228.4898 m
+40 229.3182 39.32843 229.9898 38.5 229.9898 c
+37.67157 229.9898 37 229.3182 37 228.4898 c
+37 227.6613 37.67157 226.9898 38.5 226.9898 c
+39.32843 226.9898 40 227.6613 40 228.4898 c
+f*
+0.160784 0.160784 0.160784 rg
+BT
+/F1 8.1 Tf
+9.72 TL
+ET
+BT
+1 0 0 1 47 225.8898 Tm
+(Full\055stack web development and consulting across user experience\054 performance\054 scalability\054) Tj
+T*
+ET
+BT
+1 0 0 1 47 215.3898 Tm
+(analytics\054 experimentation\054 and test automation\056) Tj
+T*
+ET
+0.87451 0.937255 0.960784 rg
+n
+401 564.8898 166.2756 23 re
+f*
+0.062745 0.062745 0.062745 rg
+BT
+/F2 9.2 Tf
+11.04 TL
+ET
+BT
+1 0 0 1 409 572.8898 Tm
+(03  CORE STRENGTHS) Tj
+T*
+ET
+0.062745 0.062745 0.062745 rg
+BT
+/F2 7.4 Tf
+8.88 TL
+ET
+BT
+1 0 0 1 409 539.8898 Tm
+(WEB ARCHITECTURE) Tj
+T*
+ET
+0.909804 0.909804 0.909804 RG
+0.5 w
+n
+409 533.8898 m
+559.2756 533.8898 l
+S
+0.062745 0.062745 0.062745 rg
+BT
+/F2 7.4 Tf
+8.88 TL
+ET
+BT
+1 0 0 1 409 515.8898 Tm
+(FRONTEND SYSTEMS) Tj
+T*
+ET
+0.909804 0.909804 0.909804 RG
+0.5 w
+n
+409 509.8898 m
+559.2756 509.8898 l
+S
+0.062745 0.062745 0.062745 rg
+BT
+/F2 7.4 Tf
+8.88 TL
+ET
+BT
+1 0 0 1 409 491.8898 Tm
+(PROBLEM SOLVING) Tj
+T*
+ET
+0.909804 0.909804 0.909804 RG
+0.5 w
+n
+409 485.8898 m
+559.2756 485.8898 l
+S
+0.062745 0.062745 0.062745 rg
+BT
+/F2 7.4 Tf
+8.88 TL
+ET
+BT
+1 0 0 1 409 467.8898 Tm
+(AI PRODUCTIVITY) Tj
+T*
+ET
+0.909804 0.909804 0.909804 RG
+0.5 w
+n
+409 461.8898 m
+559.2756 461.8898 l
+S
+0.062745 0.062745 0.062745 rg
+BT
+/F2 7.4 Tf
+8.88 TL
+ET
+BT
+1 0 0 1 409 443.8898 Tm
+(ACCESSIBILITY) Tj
+T*
+ET
+0.909804 0.909804 0.909804 RG
+0.5 w
+n
+409 437.8898 m
+559.2756 437.8898 l
+S
+0.062745 0.062745 0.062745 rg
+BT
+/F2 7.4 Tf
+8.88 TL
+ET
+BT
+1 0 0 1 409 419.8898 Tm
+(PRODUCT THINKING) Tj
+T*
+ET
+0.909804 0.909804 0.909804 RG
+0.5 w
+n
+409 413.8898 m
+559.2756 413.8898 l
+S
+0.062745 0.062745 0.062745 rg
+BT
+/F2 7.4 Tf
+8.88 TL
+ET
+BT
+1 0 0 1 409 395.8898 Tm
+(PERFORMANCE) Tj
+T*
+ET
+0.909804 0.909804 0.909804 RG
+0.5 w
+n
+409 389.8898 m
+559.2756 389.8898 l
+S
+0.062745 0.062745 0.062745 rg
+BT
+/F2 7.4 Tf
+8.88 TL
+ET
+BT
+1 0 0 1 409 371.8898 Tm
+(MENTORING) Tj
+T*
+ET
+0.909804 0.909804 0.909804 RG
+0.5 w
+n
+409 365.8898 m
+559.2756 365.8898 l
+S
+0.87451 0.937255 0.960784 rg
+n
+401 333.8898 166.2756 23 re
+f*
+0.062745 0.062745 0.062745 rg
+BT
+/F2 9.2 Tf
+11.04 TL
+ET
+BT
+1 0 0 1 409 341.8898 Tm
+(04  TECHNOLOGY) Tj
+T*
+ET
+0.062745 0.062745 0.062745 rg
+BT
+/F2 8 Tf
+9.6 TL
+ET
+BT
+1 0 0 1 409 320.8898 Tm
+(JavaScript \057 TypeScript) Tj
+T*
+ET
+0.062745 0.062745 0.062745 rg
+BT
+/F2 8 Tf
+9.6 TL
+ET
+BT
+1 0 0 1 409 305.8898 Tm
+(React \057 Ember\056js) Tj
+T*
+ET
+0.062745 0.062745 0.062745 rg
+BT
+/F2 8 Tf
+9.6 TL
+ET
+BT
+1 0 0 1 409 290.8898 Tm
+(Node\056js \057 Java) Tj
+T*
+ET
+0.062745 0.062745 0.062745 rg
+BT
+/F2 8 Tf
+9.6 TL
+ET
+BT
+1 0 0 1 409 275.8898 Tm
+(HTML \057 CSS \057 Sass) Tj
+T*
+ET
+0.062745 0.062745 0.062745 rg
+BT
+/F2 8 Tf
+9.6 TL
+ET
+BT
+1 0 0 1 409 260.8898 Tm
+(Web Components) Tj
+T*
+ET
+0.062745 0.062745 0.062745 rg
+BT
+/F2 8 Tf
+9.6 TL
+ET
+BT
+1 0 0 1 409 245.8898 Tm
+(Storybook \057 Design Systems) Tj
+T*
+ET
+0.062745 0.062745 0.062745 rg
+BT
+/F2 8 Tf
+9.6 TL
+ET
+BT
+1 0 0 1 409 230.8898 Tm
+(Testing \057 BDD) Tj
+T*
+ET
+0.062745 0.062745 0.062745 rg
+BT
+/F2 8 Tf
+9.6 TL
+ET
+BT
+1 0 0 1 409 215.8898 Tm
+(CI \057 CD \057 Git) Tj
+T*
+ET
+0.062745 0.062745 0.062745 rg
+BT
+/F2 8 Tf
+9.6 TL
+ET
+BT
+1 0 0 1 409 200.8898 Tm
+(APIs \057 Integrations) Tj
+T*
+ET
+0.87451 0.937255 0.960784 rg
+n
+401 163.8898 166.2756 23 re
+f*
+0.062745 0.062745 0.062745 rg
+BT
+/F2 9.2 Tf
+11.04 TL
+ET
+BT
+1 0 0 1 409 171.8898 Tm
+(05  LANGUAGES) Tj
+T*
+ET
+0.062745 0.062745 0.062745 rg
+BT
+/F2 8 Tf
+9.6 TL
+ET
+BT
+1 0 0 1 409 150.8898 Tm
+(Spanish) Tj
+T*
+ET
+BT
+/F1 7.4 Tf
+8.88 TL
+ET
+0.333333 0.333333 0.333333 rg
+BT
+1 0 0 1 538.304 150.8898 Tm
+(Native) Tj
+T*
+ET
+0.062745 0.062745 0.062745 rg
+BT
+/F2 8 Tf
+9.6 TL
+ET
+BT
+1 0 0 1 409 134.8898 Tm
+(English) Tj
+T*
+ET
+BT
+/F1 7.4 Tf
+8.88 TL
+ET
+0.333333 0.333333 0.333333 rg
+BT
+1 0 0 1 538.711 134.8898 Tm
+(Fluent) Tj
+T*
+ET
+0.062745 0.062745 0.062745 rg
+BT
+/F2 8 Tf
+9.6 TL
+ET
+BT
+1 0 0 1 409 118.8898 Tm
+(German) Tj
+T*
+ET
+BT
+/F1 7.4 Tf
+8.88 TL
+ET
+0.333333 0.333333 0.333333 rg
+BT
+1 0 0 1 494.7106 118.8898 Tm
+(Working knowledge) Tj
+T*
+ET
+0.909804 0.909804 0.909804 RG
+n
+36 25 m
+559.2756 25 l
+S
+BT
+/F2 6.8 Tf
+8.16 TL
+ET
+0.333333 0.333333 0.333333 rg
+BT
+1 0 0 1 36 13 Tm
+(JASALGUERO\056COM) Tj
+T*
+ET
+BT
+1 0 0 1 538.4812 13 Tm
+(01 \057 02) Tj
+T*
+ET
+
+endstream
 endobj
 10 0 obj
 <<
-/Contents 15 0 R /MediaBox [ 0 0 595.2756 841.8898 ] /Parent 13 0 R /Resources <<
-/Font 1 0 R /ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ]
->> /Rotate 0 /Trans <<
-
->> 
-  /Type /Page
+/F1 11 0 R
+/F2 12 0 R
 >>
 endobj
 11 0 obj
 <<
-/PageMode /UseNone /Pages 13 0 R /Type /Catalog
+/BaseFont /Helvetica
+/Encoding /WinAnsiEncoding
+/Name /F1
+/Subtype /Type1
+/Type /Font
 >>
 endobj
 12 0 obj
 <<
-/Author (Jose Salguero) /CreationDate (D:20260913031237+02'00') /Creator (anonymous) /Keywords () /ModDate (D:20260913031237+02'00') /Producer (ReportLab PDF Library - \(opensource\)) 
-  /Subject (Software engineering experience, skills, education, and community work) /Title (Jose Salguero - Software Engineer CV) /Trapped /False
+/BaseFont /Helvetica-Bold
+/Encoding /WinAnsiEncoding
+/Name /F2
+/Subtype /Type1
+/Type /Font
 >>
 endobj
 13 0 obj
 <<
-/Count 2 /Kids [ 9 0 R 10 0 R ] /Type /Pages
+/Contents 14 0 R
+/MediaBox [ 0 0 595.2756 841.8898 ]
+/Parent 2 0 R
+/Resources <<
+/Font 10 0 R
+/ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ]
+>>
+/Rotate 0
+/Trans <<
+>>
+/Type /Page
 >>
 endobj
 14 0 obj
 <<
-/Filter [ /ASCII85Decode /FlateDecode ] /Length 3330
+/Filter [ /ASCII85Decode /FlateDecode ]
+/Length 2706
 >>
 stream
-Gau0F>BcPt(4OT5d+cd7jUrj,DoZiglIN5H$op=r,Zo5'0R*RFPPOmX-#O[g[!%55CW2EfpAUkirTsui7"tY?rX?8h>l!IOL(_Xb^Euo]FQ1W&lX)'/r($UUg#aK0V5C":[dD^V+k:FmEO,T(6;^Hhkm$C%_BPt7&PX!d1pbU3Za9c:F-^[/6N&M3kEgnc&oTnEI;kO2IhD]Bnc,PR#XJ]G.8cI%2%-'TSPmY4Zsrj.f#m_&2u_i^kn82h4.X"O''W5/5Rdc8c!gln__G07f#t`73M9Eq0pnglb:j7/WY;>X=T[0Cf^N!kSj,?+)Pdk[RGNN(e"d8dim7'Z*lOO2cVc&_[i"@$@]9AIVhX"BrdP8dbZ:[b=BF]d'L)ccLj6NS9$Wdfk_`m!T$0/d?MH!B"O,%;\SQhhDDP4&4e(-&hc`P,2-$mlY:\OXe"SGFqrQgL3ck07QGQo].Oj_s.fftcFDn)WfTIn%cA>Vn_2&4#iQ3E=37#ZM<'6@]OM$d$*b79&f7a0:a0URL+X^(_.#*B0O>m/,noS0M"W:C_PebC)JH3"8Hq+Mb4ss2E`$EQYF]$<:AT/7#A9Vf+VTrA4].AAfq%f45Y<lZZX@PVI,"l@K:;]4[9,\)3GRb)Obi;u(G!+U"S8?YUYYLY'T2uBidoGm$!hdk*QLI!aj!cET0]6[VgWK;O(Jtd\MRPEh)1;oj6`/!lerD,^k:k&R1s&6#AXN"\&GcDCliIkl_/]Wd#eD85(g0:sW.5Or%lYl.a<jRSabm8mP`YQ%N^)X`^+\+?6("Kor\6[8+pn`b"#%lm>qmNr%`^dXme2KM,;N%r>kq\,(69ml]:(!@.^,St>fA<k)OAp*:amQZ4*)d`HVKgo`1?edEO#FfK#6V$Yju#_Itgs?CeHU?[_nJWVZ9a4;aP)Ro`8Y,&]X3Sm!2sXb<mpF-Kk].%d@pP`M-C7cR&,H$g^n(GSmD2KpK!ZBGB_Yr3Jroo,qEYRaWaU4=liYn1VTbG7,KkbgG(0>j*ZASZV,HfZTDPB[hbj%%kbp2*']Q^MAFnRSe='=UOYe@A,&"[,,ODMe?H$c^RlYBV!h=Cc7G\h:8#`<isE0_[F<+Zm>5AB72cCZYDA*W^e[s0!H2[3F;;Y*iD(k9&Se]SgD7Y_/Ti;[u5k?BP0uh=UOd)$s82/Jqut3%H83Q1lhbAEU^]?1jsWM`oL;%&a+[bMJc,,,.4_!P\kL'1eXi0[\R[1/I=5s]^$0<AFkJ.em#9;dZUW][j6W%/=@M^ZC[9$[+:DBjIn-(+p,NZUKJF$X;c_qJiF>&/:tYu:>bW"DForo8M9"(.RI^/5q%;OO_2H9,>r)U@*g;Np]`9%UVV^$eK)&5d87c=Fd*##(dUhdiBibacD9QoZCGeVAtFsZG?=2F_Tpusl5R:+4a9=,*eeF`l"^.PI&@o3K;`8(=`gS-'KM![#t``?`(YNCRh9\(p'D,/[p$o%8T\8*3JjnI,&Kfj8X_Yr9Pp:&8KPrEFNm9M!\)7R\UY*H6dkU@QbII\R`O)V,5htHqZMMqngugjbC5OXe]A?sN4@pp<C[!'faWa15B[QlY"Z@O1*KaHS-?ubFRDQ:e#A%\8aX5H@0R`t4i53TT!6RfX-Hp.PF?o0;PPJi3&G51-]sh!0jDae)&%ddkn]6K$5O3(XR$%o$$&e_2_n&1q]ai_#.m3F(!J""^As9f1J)nsHB[k0;c-AmU8e=#AM4Y@Mu?6b(a[%O-DR#h3!%<\L^M>u]]ilhL<'>.GF)6P5&nom7lAK*q.MQH2'4D1of-C_ASpK)ftntVZf)`cG9i_Mc'kU3SrP#QAtDCus5-JsRZ=PGC0iZ\l4AO7Q`aDqoaUgW?]<'Y#Ld<^2s_0&];FgUD\k43:GsHYmHkQ&>&Ug3V714YlZp)H73Rsj&%oTDPK6kdm7?f)hCd.13?$asJHR87j",S<TG0%/G:s>5Od$'UjLb?Lh8<cd`hGR#^5elWKR-[DA,Hg*HnIDZ]G7=(oGn-$_B6A$#*l+;,W32>%(3gn@>II!2g+4beY.-A=dGt`n[SiLLFc,5hnla1#>,LYgcT#=oi<TR['8if/Zdr&d>Y;`lT'Nt?B6fOARQ=m`bC]TJn9,AHca`461WINlo)pk\1A>7T"RUf`t0P*]U)LM/)]XeLck6Td2KQPOsl7rp^MuP62Ya!arCdl)UqI/.QC,E7//T[1)l!]B(s3LQt[)E)'O(0:KV;DeOl.iA9L1"1Y_+a4q,c^S4(q_B-_a6F+Q03O3>P*E47s`,bOXOE56>PJ8t5(1N:JN]N&'8(d$"'_m10q'r65!(M#rY1UO1J-=cto[^>\XQ3@f-ZE9G_J+'.k$RN?J)Js]'*(lP][jq2>XCJa\17_dapFcB2qa1NJ8.-OIZ#8%P-K@2u6oXN-`]Ak/0+d?S2UJ#W+e@a'4(u@4:@j/[Btc:NHsruL_E,pXG0kVFS`U;AdX5K%q8,u"Kq7%Iq2'mbf#peB&f(()Fn]J+;3oU$^5jSt<H\0[GRnAOOL=XQPUD#%PkBJ>$eG4-6Qf;tC_t%Y721?[Pu8Qn.(rCZbrUFD43A)j0Bal3L0<>0C7<[G+mnn<$qg=VM^k`Uj;:mP(`#l!2*rXJV+Wq#l-=5Gce_eGIJ@ucY7+e98,%n"Q]o`ohjsNQSK([M<6#3]rD,tkiS(ueP7c6M3n6,2A!L]Ubak&<ru<c4f5/!bqnPS;qr[_BSTd8,eN$$&cOGP0GIh^PY%I)Be-WIrVXrQK!UI16!4\F9$8ClNNMiK\]7-.Be%_dZ\+9WioFPt)2\]X?'sQ`?6kkV^e(HCjeZ;-Jp"WA_WRJBhic'bSGrl!%9/hGD3aFO#&7WmM:'Yq:c!krWmZlcZJH^Kd!8G^,"W"kL]n6m1=T6IRC?D4f200Dq:Z@%.1Z.YX':Ori#nIVUmEbCCCiT@>X;GB4;>nQP25HPuY:61CpYU2-*"8fA72J[!TV+jlUrrFZ5WoN7p8`D=TLis=81bV2c"I&o"tCsk#=#mE+*9Rkg<Log>a'9A9+t/;%&lZcg[Ur:Go*['?oQ]C%O.LGK*Kk^gE\tYCa*B%,ZiUL6Roni`FLH7F:CHPUEM9K;fT_<IO]6i'YT,[,QFS%Drh^kku0GFR>pC=&*$mg][ZPna$C/V*8W;=UAXhkP!&<sWfr<3",\62p=I\I&&bq=L>7E9C/lZTj2(It;;0Q@'CWc8LYMu#09C(^W4.N9K'qj,"kDsSGt^$ApED7^qA/\QL7]6LPHkLGUG7]q*3M27.X$Z3RV/;sYtu"Tn2@GaKr@Z\GK9#C@2<-rDlm1Frch"6L)qZXrr[d7[)i~>endstream
+Gb!#]hfGPP&q8/6d>rKU%RGUV4?<toZ=i3VJ)&i9)n'=I)%8^Eaj0nYf9.i/NoNj:R&WfZ!`Dj=MuL<&DF)(V?R#M&G6%@n\9fJd/=<Pj3/.OA+U#+j_da0&@/)Xd.)i6&1=(M\F-GQTk*q+gq&WA))A])#i3NTBoe/7YkutS2cEF`UlEYrm;AV4G=r5JJg+:t^ch*Lhfae#TgNXXPZp/r,#F"]8@J1.B^I[s4q#fg3<XU^^:ubp0_/.#q4TZZZ>><T:j6UQ2&jR!kKi&CTi!t?g4U70)L^!kg`mH>rk.u[f`*[GJaK=0NF`FJ+-*73F$P;qX_[ohWMEdbOnoR7W(&]=%;Fa=6JaJYER)8J?k*j`RGDrrCf%?nBGlBgc2!^/e3YcYj:IjZ`D7Jq3_&Z3pQK/3sjU:;@pM$plX!H$LJ\U\2ht,i4[rAm*h4?nOoo=qp%*l&SlG_m:>P!MjB:68`>;1oDEtA]Q!I?*X_,E$*oqUD%jVT8/9b:93&;LhZarn670M7.4378[ZA/dGs/9HhZ>Fo?J).3:`2br,To#>;:4pY`R'22WV>05c,*"g)20s%a)k)!WTOkf6)kG2\^HJR`FN<j-j_Z'IZKFGk^HKW#Y/tg3M9Cum]qJHIV[K>F+\AH'?fkbTeQT.Rs7?T"J%p7u+*A<]up`K9-_QtOAU#a0cP&4TnA#?66EJF1YJj@fNqRG"LhIV/W.MPfJ]I`WZKIC2Ij'12hqfqpbO_;<3^S(ZkC"IE4<h"\:^C6h6;-&'G)BX"/lhR!]>tgBYmM7U\;jrj2me-saX_4bHl#,,EcJ7f59UC,HC$om$Un(iPDG>.!mWLb&FnbhX8ZUR!4.]G-J9t*-psRQP4\2l9D\NE<+]Q+UjKrlXpfETs.9(SaQE\A&:i/4/dX6V0q_YHpC1hoH)dc6VQkil@N5j9?9A!*bo43#+OadUs"m9TY\;"_3Y$PUkFHC@&N-CfE>\^Z]<B?nBfSHBlrjTi.3]0YIdN)l';kuKt&lEmqZt+;ID"@eYf!AD_69:.J.FN'?QYa-NdHEd>eTR*#dTaiL+<<&<0.42QoobPaO),Ou`a@]]\o/]!LJfD&$'1EQ%j'3;+..DPis>M-+aW+/mSs6\QZ3pfM/T,nlSKSDpH*scZOD.,rpFEOg=4g06R\G<?u'!:p)OS=o4^FHJf[V#L9l@S`;@s"LS.@iS[5;FcIl[(9sr5:K6I+pe(1j+Z@k./cT.Jdci`suEcs5d/Sd@NPM?JOWHXK2?hpFO7K,J(<17.4<IDE:ZZsAVG#tm_PDcs3K#77QXB?j5pU`O^RE!^Fqur:u&9]#]pB?RXMCi^CoW>X`T;,r^lBFuq3@0S$m@CSmPh\I=[.UMcXM!eh;_iK<8o@,02r0d_S+XA;?$XoL./@XbI)hSb8d`;6dN@tI<*LX)jYk$Q3gCc)pV&[>.k%In45]2bMAK"C[,PeO0)AGsDcO)9rfjM@@A9KV7[.9BrF%\_*QIig"bYL8UQe2`CA=]a/u1$8jB6b!X#R.@c!JoN.@H([`C0E/.Z`E%W;eOX+#%n%pVZ3)34EurVUdaN;bJM!Au+JBC'hFVcW\EtkLMX:;kaqG1X^8<>!d,XlS`s@F.s9;OD?-f,5N7q*BT(*S7R;#&cJHAaB#==XE07e2&E=e"VNdQ*-&7=ep0t5T<I+tA0u*PXQ7PlJXoIFrc<loH*cUP>&BU^0I=!`WO1ZHeZE\F3E#th/aP0_*)Co7dm4g=Zg][h5SuYEZ/hC.=F1Hq17/')A:HS2L0^&K(39r*3ORdXf*2_k>@g2:]V[3RX,\u8+8do7%f;k)0?5ABGWDpL(1*#:CI-=+[.%h&@+oqX8s\E^7]55,\E8WYo1aHeF1%RZnBrS+&mc'uLg"qEU6&)(9Ti+nMbtaG1aJ(R>/Io0.XVAGW014]":"tqgJ*g/#E"j/!(C[a4oPcSYFIj=-J"__>m(cc3-b^BfcND1oF5s$8IX(YY['r?N9Y%s$m9e^%qN&[Kr_,I@F`jIT3eq`7$"Gj6E6f9G]gfn(nQX*mrt/>`$*bpGt1CJ>.LLNQ)T-XcHiB\l[9`'9H:nVb<Hlt;Qm&7(@t4qa&3o6jD.`iP,)fNd8l$pLqR]`S*N)g8OJG%9+cZPHQZaOoK?L&K;3<CNFDY7RjPl<X%g3u!46OhT*]2_5&$Gc#34*E*as3a.B[s^ZS%b>XOagG^>b&QB8,Zns"\#QCG7W\4\s'nPQ#507SidpqL`-.@H?M@_=d`*/#&Wd#`l3YaK]E/4jWki.b@,'K0tA>2>0lk!G7TX1O)-q7>#+kjfO\$?G0`4METPu(>'LAMB(`CWbfN,H:8D='lHsB*'&8?g,m]'IBM`-.6*u\DjX8^M/?ddQ0X$[2qBQ#..V)Ik]&_G*X!6J_<=(MF9r-[ksiq$4;D^T_:OGOkG?8cpUj&ed[YrI]3H=t??%3`MXTZC[R`QeBfd$j6(Ei(Uju/\Vrdr02]Z6udGmC9i#c,$Re#!`_kVa!rC&*tf!gZP?hpeTTm%Mhl<-c-@TXU<5bei;b00:e/J,p[4TF8bhl!2LCLWfHnKO7U3CGA?mLHOX6"n%d(/Z-Nf?R?K4KMhW:iGhME3^2q/5F%?S%aZREIOH@WDABeKcO!krY-YUq(8lF"Vq*\(W?7dPG21L'j,kAm2s+2)TYF8[j6RUnVD<m@u;Kpe']:lS,WPFJ3c^~>
+endstream
 endobj
 15 0 obj
 <<
-/Filter [ /ASCII85Decode /FlateDecode ] /Length 2706
+/Author (Jose Salguero)
+/CreationDate (D\07220260913031237\05302\04700\047)
+/Creator (anonymous)
+/Keywords ()
+/ModDate (D\07220260913031237\05302\04700\047)
+/Producer (ReportLab PDF Library \055 \050opensource\051)
+/Subject (Software engineering experience\054 skills\054 education\054 and community work)
+/Title (Jose Salguero \055 Software Engineer CV)
+/Trapped /False
 >>
-stream
-Gb!#]hfGPP&q8/6d>rKU%RGUV4?<toZ=i3VJ)&i9)n'=I)%8^Eaj0nYf9.i/NoNj:R&WfZ!`Dj=MuL<&DF)(V?R#M&G6%@n\9fJd/=<Pj3/.OA+U#+j_da0&@/)Xd.)i6&1=(M\F-GQTk*q+gq&WA))A])#i3NTBoe/7YkutS2cEF`UlEYrm;AV4G=r5JJg+:t^ch*Lhfae#TgNXXPZp/r,#F"]8@J1.B^I[s4q#fg3<XU^^:ubp0_/.#q4TZZZ>><T:j6UQ2&jR!kKi&CTi!t?g4U70)L^!kg`mH>rk.u[f`*[GJaK=0NF`FJ+-*73F$P;qX_[ohWMEdbOnoR7W(&]=%;Fa=6JaJYER)8J?k*j`RGDrrCf%?nBGlBgc2!^/e3YcYj:IjZ`D7Jq3_&Z3pQK/3sjU:;@pM$plX!H$LJ\U\2ht,i4[rAm*h4?nOoo=qp%*l&SlG_m:>P!MjB:68`>;1oDEtA]Q!I?*X_,E$*oqUD%jVT8/9b:93&;LhZarn670M7.4378[ZA/dGs/9HhZ>Fo?J).3:`2br,To#>;:4pY`R'22WV>05c,*"g)20s%a)k)!WTOkf6)kG2\^HJR`FN<j-j_Z'IZKFGk^HKW#Y/tg3M9Cum]qJHIV[K>F+\AH'?fkbTeQT.Rs7?T"J%p7u+*A<]up`K9-_QtOAU#a0cP&4TnA#?66EJF1YJj@fNqRG"LhIV/W.MPfJ]I`WZKIC2Ij'12hqfqpbO_;<3^S(ZkC"IE4<h"\:^C6h6;-&'G)BX"/lhR!]>tgBYmM7U\;jrj2me-saX_4bHl#,,EcJ7f59UC,HC$om$Un(iPDG>.!mWLb&FnbhX8ZUR!4.]G-J9t*-psRQP4\2l9D\NE<+]Q+UjKrlXpfETs.9(SaQE\A&:i/4/dX6V0q_YHpC1hoH)dc6VQkil@N5j9?9A!*bo43#+OadUs"m9TY\;"_3Y$PUkFHC@&N-CfE>\^Z]<B?nBfSHBlrjTi.3]0YIdN)l';kuKt&lEmqZt+;ID"@eYf!AD_69:.J.FN'?QYa-NdHEd>eTR*#dTaiL+<<&<0.42QoobPaO),Ou`a@]]\o/]!LJfD&$'1EQ%j'3;+..DPis>M-+aW+/mSs6\QZ3pfM/T,nlSKSDpH*scZOD.,rpFEOg=4g06R\G<?u'!:p)OS=o4^FHJf[V#L9l@S`;@s"LS.@iS[5;FcIl[(9sr5:K6I+pe(1j+Z@k./cT.Jdci`suEcs5d/Sd@NPM?JOWHXK2?hpFO7K,J(<17.4<IDE:ZZsAVG#tm_PDcs3K#77QXB?j5pU`O^RE!^Fqur:u&9]#]pB?RXMCi^CoW>X`T;,r^lBFuq3@0S$m@CSmPh\I=[.UMcXM!eh;_iK<8o@,02r0d_S+XA;?$XoL./@XbI)hSb8d`;6dN@tI<*LX)jYk$Q3gCc)pV&[>.k%In45]2bMAK"C[,PeO0)AGsDcO)9rfjM@@A9KV7[.9BrF%\_*QIig"bYL8UQe2`CA=]a/u1$8jB6b!X#R.@c!JoN.@H([`C0E/.Z`E%W;eOX+#%n%pVZ3)34EurVUdaN;bJM!Au+JBC'hFVcW\EtkLMX:;kaqG1X^8<>!d,XlS`s@F.s9;OD?-f,5N7q*BT(*S7R;#&cJHAaB#==XE07e2&E=e"VNdQ*-&7=ep0t5T<I+tA0u*PXQ7PlJXoIFrc<loH*cUP>&BU^0I=!`WO1ZHeZE\F3E#th/aP0_*)Co7dm4g=Zg][h5SuYEZ/hC.=F1Hq17/')A:HS2L0^&K(39r*3ORdXf*2_k>@g2:]V[3RX,\u8+8do7%f;k)0?5ABGWDpL(1*#:CI-=+[.%h&@+oqX8s\E^7]55,\E8WYo1aHeF1%RZnBrS+&mc'uLg"qEU6&)(9Ti+nMbtaG1aJ(R>/Io0.XVAGW014]":"tqgJ*g/#E"j/!(C[a4oPcSYFIj=-J"__>m(cc3-b^BfcND1oF5s$8IX(YY['r?N9Y%s$m9e^%qN&[Kr_,I@F`jIT3eq`7$"Gj6E6f9G]gfn(nQX*mrt/>`$*bpGt1CJ>.LLNQ)T-XcHiB\l[9`'9H:nVb<Hlt;Qm&7(@t4qa&3o6jD.`iP,)fNd8l$pLqR]`S*N)g8OJG%9+cZPHQZaOoK?L&K;3<CNFDY7RjPl<X%g3u!46OhT*]2_5&$Gc#34*E*as3a.B[s^ZS%b>XOagG^>b&QB8,Zns"\#QCG7W\4\s'nPQ#507SidpqL`-.@H?M@_=d`*/#&Wd#`l3YaK]E/4jWki.b@,'K0tA>2>0lk!G7TX1O)-q7>#+kjfO\$?G0`4METPu(>'LAMB(`CWbfN,H:8D='lHsB*'&8?g,m]'IBM`-.6*u\DjX8^M/?ddQ0X$[2qBQ#..V)Ik]&_G*X!6J_<=(MF9r-[ksiq$4;D^T_:OGOkG?8cpUj&ed[YrI]3H=t??%3`MXTZC[R`QeBfd$j6(Ei(Uju/\Vrdr02]Z6udGmC9i#c,$Re#!`_kVa!rC&*tf!gZP?hpeTTm%Mhl<-c-@TXU<5bei;b00:e/J,p[4TF8bhl!2LCLWfHnKO7U3CGA?mLHOX6"n%d(/Z-Nf?R?K4KMhW:iGhME3^2q/5F%?S%aZREIOH@WDABeKcO!krY-YUq(8lF"Vq*\(W?7dPG21L'j,kAm2s+2)TYF8[j6RUnVD<m@u;Kpe']:lS,WPFJ3c^~>endstream
 endobj
 xref
 0 16
 0000000000 65535 f 
-0000000061 00000 n 
-0000000102 00000 n 
-0000000209 00000 n 
-0000000321 00000 n 
-0000000496 00000 n 
-0000000675 00000 n 
-0000000866 00000 n 
-0000001034 00000 n 
-0000001218 00000 n 
-0000001465 00000 n 
-0000001671 00000 n 
-0000001741 00000 n 
-0000002094 00000 n 
-0000002161 00000 n 
-0000005583 00000 n 
+0000000015 00000 n 
+0000000083 00000 n 
+0000000149 00000 n 
+0000000391 00000 n 
+0000000575 00000 n 
+0000000772 00000 n 
+0000000987 00000 n 
+0000001173 00000 n 
+0000001378 00000 n 
+0000012545 00000 n 
+0000012589 00000 n 
+0000012697 00000 n 
+0000012810 00000 n 
+0000013012 00000 n 
+0000015811 00000 n 
 trailer
 <<
-/ID 
-[<32ec5475c05e5c140efa17c5ed882e58><32ec5475c05e5c140efa17c5ed882e58>]
-% ReportLab generated PDF document -- digest (opensource)
-
-/Info 12 0 R
-/Root 11 0 R
 /Size 16
+/Root 1 0 R
+/Info 15 0 R
+/ID [ (2\354Tu\300\136\134\024\016\372\027\305\355\210\056X) (2\354Tu\300\136\134\024\016\372\027\305\355\210\056X) ]
 >>
 startxref
-8381
+16204
 %%EOF
